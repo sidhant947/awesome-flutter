@@ -582,6 +582,7 @@ This section contains libraries that take an experimental or unorthodox approach
 
 #### Open source games
 
+- [Puzzle Games](https://github.com/sidhant947/puzzle) [86⭐] - 200+ Minimalistic daily puzzle game by [Sidhant](https://github.com/sidhant947).
 - [Flip](https://github.com/RedBrogdon/flutterflip) [268⭐] - Reversi game by [Andrew Brogdon](https://github.com/RedBrogdon).
 - [2048](https://github.com/anuranBarman/2048) [361⭐] - 2048 game by [Anuran Barman](https://github.com/anuranBarman).
 - [TRex](https://github.com/renancaraujo/trex-flame) [7⭐] - Port of the famous Chrome's Trex game by [Renan C. Araújo](https://github.com/renancaraujo).
