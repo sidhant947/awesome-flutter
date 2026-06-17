@@ -591,6 +591,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Party Charades](https://github.com/vintage/party_flutter) [209⭐] - Party charades by [Kamil Rykowski](https://github.com/vintage).
 - [Ghost Rigger](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) [256⭐] - Ghost Rigger is a cyberpunk inspired puzzle game by [Iain Smith](https://github.com/b099l3) and [Julio Ernesto Rodríguez Cabañas](https://github.com/ernestoyaquello).
 - [Space Empires](https://github.com/satyamx64/space_empires) [101⭐] - A 4X Space themed strategy game by [Satyam Sharma](https://github.com/satyamx64).
+- [Puzzle Games](https://github.com/sidhant947/puzzle) [86⭐] - A collection of 200+ minimalistic puzzle games by [Sidhant](https://github.com/sidhant947).
 
 #### Game Engine resources
 
